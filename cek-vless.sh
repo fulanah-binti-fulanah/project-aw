@@ -14,6 +14,7 @@ exit 0
 fi
 echo -n > /tmp/other.txt
 data=( `cat /etc/v2ray/vless.json | grep '^###' | cut -d ' ' -f 2`);
+figlet Ceu Edoh Project | lolcat
 echo "-------------------------------";
 echo "-----=[ Vless User Login ]=-----";
 echo "-------------------------------";
