@@ -233,6 +233,7 @@ netfilter-persistent reload
 
 # download script
 cd /usr/bin
+rm -f menu
 wget -O add-host "https://raw.githubusercontent.com/bokiroke1/project-aw/main/add-host.sh"
 wget -O about "https://raw.githubusercontent.com/bokiroke1/project-aw/main/about.sh"
 wget -O menu "https://raw.githubusercontent.com/bokiroke1/project-aw/main/menu.sh"
