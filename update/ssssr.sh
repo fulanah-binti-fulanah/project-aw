@@ -13,6 +13,7 @@ echo "Only For Premium Users"
 exit 0
 fi
 clear
+figlet Panel SSR | lolcat
 echo -e "\e[1;32m═══════════════════════════════════════\e[m" | lolcat
 echo -e "           \e[1;31m\e[1;31m═[\e[mSSR & SS Account\e[1;31m]═\e[m" 
 echo -e "\e[1;32m═══════════════════════════════════════\e[m" | lolcat
