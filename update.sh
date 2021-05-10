@@ -33,7 +33,7 @@ wget -O sstpp "https://raw.githubusercontent.com/bokiroke1/project-aw/main/updat
 wget -O trojaan "https://raw.githubusercontent.com/bokiroke1/project-aw/main/update/trojaan.sh"
 wget -O v2raay "https://raw.githubusercontent.com/bokiroke1/project-aw/main/update/v2raay.sh"
 wget -O wgr "https://raw.githubusercontent.com/bokiroke1/project-aw/main/update/wgr.sh"
-wget -O vless "https://raw.githubusercontent.com/bokiroke1/project-aw/main/update/vleess.sh"
+wget -O vleess "https://raw.githubusercontent.com/bokiroke1/project-aw/main/update/vleess.sh"
 wget -O bbr "https://raw.githubusercontent.com/bokiroke1/project-aw/main/update/bbr.sh"
 chmod +x menu
 chmod +x l2tp
@@ -44,6 +44,7 @@ chmod +x trojaan
 chmod +x v2raay
 chmod +x wgr
 chmod +x bbr
+chmod +x vleess
 
 echo "0 5 * * * root clear-log && reboot" > /etc/crontab
 echo "0 0 * * * root xp" > /etc/crontab
