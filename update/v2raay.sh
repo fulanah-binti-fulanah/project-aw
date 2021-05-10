@@ -13,6 +13,7 @@ echo "Only For Premium Users"
 exit 0
 fi
 clear
+figlet Panel v2ray | lolcat
 echo -e "\e[1;32m═══════════════════════════════════════\e[m" | lolcat
 echo -e "          \e[1;31m\e[1;31m═[\e[mAll Account V2Ray\e[1;31m]═\e[m" 
 echo -e "\e[1;32m═══════════════════════════════════════\e[m" | lolcat
