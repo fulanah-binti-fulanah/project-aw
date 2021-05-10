@@ -14,6 +14,7 @@ exit 0
 fi
 clear
 echo -e""
+figlet Wireguard | lolcat
 echo -e "\e[1;32m═══════════════════════════════════════\e[m" | lolcat
 echo -e "              \e[1;31m\e[1;31m═[\e[mWireguard\e[1;31m]═\e[m" 
 echo -e "\e[1;32m═══════════════════════════════════════\e[m" | lolcat
