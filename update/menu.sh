@@ -37,7 +37,7 @@ echo -e   "   6\e[1;33m)\e[m Panel V2Ray"
 echo -e   "   7\e[1;33m)\e[m Panel VLess"
 echo -e   "   8\e[1;33m)\e[m Panel TRojan"
 echo -e   "  \e[1;32m------------------------------------------------------------\e[m" | lolcat
-echo -e   "                          SYSTEM MENU\e[m" | lolcat 
+echo -e   "                            SYSTEM MENU\e[m" | lolcat 
 echo -e   "  \e[1;32m------------------------------------------------------------\e[m" | lolcat
 echo -e   "   9\e[1;33m)\e[m   Add Subdomain Host For VPS"
 echo -e   "   10\e[1;33m)\e[m  Renew Certificate V2RAY"
