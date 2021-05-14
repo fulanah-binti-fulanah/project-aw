@@ -5,7 +5,7 @@ gl='\e[32;1m'
 
 clear
 echo -e   ""
-echo -e   "             ██╗   ██╗██╗   ██╗███████╗███████╗      "
+echo -e   "   ${yl}          ██╗   ██╗██╗   ██╗███████╗███████╗      "
 echo -e   "             ██║   ██║╚██╗ ██╔╝██╔════╝██╔════╝      " 
 echo -e   "             ██║   ██║ ╚████╔╝ █████╗  █████╗        " 
 echo -e   "             ██║   ██║  ╚██╔╝  ██╔══╝  ██╔══╝        " 
@@ -27,7 +27,7 @@ echo -e  ""
 	echo -e    "    \e[032;1mTotal Amount Of Swap:\e[0m $swap MB"
 	echo -e    "    \e[032;1mSystem Uptime:\e[0m $up"
 echo -e  ""
-echo -e  "   ----------------------------MENU OPTIONS----------------------------" | lolcat
+echo -e  "   -------------------------MENU OPTIONS------------------------" | lolcat
 echo -e   "   1\e[1;33m)\e[m SSH & OpenVPN Menu"
 echo -e   "   2\e[1;33m)\e[m Panel Wireguard "
 echo -e   "   3\e[1;33m)\e[m Panel L2TP & PPTP Account"
@@ -37,7 +37,7 @@ echo -e   "   6\e[1;33m)\e[m Panel V2Ray"
 echo -e   "   7\e[1;33m)\e[m Panel VLess"
 echo -e   "   8\e[1;33m)\e[m Panel TRojan"
 echo -e   "  \e[1;32m------------------------------------------------------------\e[m" | lolcat
-echo -e   "                \e[1;31m\e[1;31mSYSTEM MENU\e[m" | lolcat 
+echo -e   "                SYSTEM MENU\e[m" | lolcat 
 echo -e   "  \e[1;32m------------------------------------------------------------\e[m" | lolcat
 echo -e   "   9\e[1;33m)\e[m   Add Subdomain Host For VPS"
 echo -e   "   10\e[1;33m)\e[m  Renew Certificate V2RAY"
